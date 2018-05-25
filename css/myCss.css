@@ -1,0 +1,280 @@
+@media only screen and (min-width: 2030px) {
+     .logo{
+         width: 6vw;
+         height: 8vw;
+         padding-left: 3px;
+         padding-bottom: 3px;
+         margin-top: 5px;
+		 margin-right:2030px;
+    }
+}
+@media only screen and (min-width: 1030px) {
+     .logo{
+         width: 6vw;
+         height: 8vw;
+         padding-left: 3px;
+         padding-bottom: 3px;
+         margin-top: 5px;
+    }
+     .header{
+         color:white;
+        ;
+    }
+     li h1{
+         margin-bottom:0px;
+         margin-top:45px;
+         font-size:2vw;
+    }
+     li h3{
+         margin-top:0px;
+         margin-bottom:0px;
+         float:right;
+         font-size:1.5vw;
+    }
+     .aboutMe{
+         margin:100px;
+         display:block;
+         width:1000px;
+         color:#2d3c49;
+         line-height:1.2em;
+         letter-spacing: -0.07em;
+         font-size:2vw;
+    }
+     #headerId{
+         padding-top:5px;
+    }
+     #myName{
+         display:none;
+    }
+     .featuredWork{
+         width:1000px;
+         margin-left:170px;
+         color:#7d97ad;
+    }
+     .girlPic{
+         width: 30vw;
+         margin-top: 20px;
+         margin-bottom: 20px;
+         align-items:center;
+         margin-left:1000px;
+    }
+     .toggle-btn {
+         display:none;
+    }
+     #sidePane{
+         left:100px;
+         padding-right:10px;
+         padding-left: 0px;
+         height:100%;
+         font-size:1.5vw;
+         font-weight:lighter;
+    }
+     #footer{
+         font-size:1vw;
+         align-items:center;
+         background-color:#9d707038;
+         margin-bottom:20px;
+         margin-top:20px;
+    }
+     .carousel-caption h3 {
+         font-family:Garamond;
+         font-size:3vw;
+         color:#1a4163 !important;
+         line-height:1.2;
+    }
+     .carousel-item img{
+         margin-left: 900px;
+    }
+     .headerNames li{
+         font-size:10vw;
+         margin-left:1000px;
+    }
+     .copyRight{
+         margin-left:2300px;
+    }
+}
+ @media only screen and (min-width: 760px) and (max-width:1029px) {
+     .logo{
+         width: 5vw;
+         height: 8vw;
+         padding-left: 3px;
+         padding-bottom: 3px;
+         margin-top: 5px;
+         margin-left:650px;
+         right:10px;
+    }
+     .header{
+         color:white;
+        ;
+    }
+     li h1{
+         margin-bottom:0px;
+         margin-top:45px 
+    }
+     li h3{
+         margin-top:0px;
+         margin-bottom:0px;
+         float:right;
+    }
+     .aboutMe{
+         display:block;
+         width:1000px;
+         color:#2d3c49;
+         line-height:1.2em;
+         letter-spacing: -0.07em;
+         font-size:6vw;
+    }
+     #headerId{
+         padding-top:5px;
+    }
+     #headerId .toggle-btn span{
+         display:block;
+         width: 50px;
+         height: 8px;
+         background-color: white;
+         cursor: pointer;
+         margin: 6px 0;
+    }
+     .headerNames{
+         display:none;
+    }
+     .featuredWork{
+         width:1000px;
+         margin-left:170px;
+         color:#7d97ad;
+    }
+     .girlPic{
+         width: 60vw;
+         margin-top: 20px;
+         margin-bottom: 20px;
+         align-items:center;
+         margin-left:40px;
+    }
+     #sidePane{
+         left:-200px;
+         padding-right:10px;
+         padding-left: 0px;
+         height:100%;
+    }
+     #sidePaneActive{
+         left:0px;
+         padding-right:10px;
+         padding-left: 0px;
+         height:100%;
+         font-size:5vw;
+    }
+     #footer{
+         font-size:4vw;
+         align-items:center;
+         background-color:#9d707038;
+         margin-bottom:20px;
+         margin-top:20px;
+    }
+     .carousel-caption h3 {
+         font-family: Garamond;
+         font-size: 5vw;
+         color: #1a4163 !important;
+         line-height:1.2;
+    }
+     .copyRight{
+         margin-left:200px;
+    }
+}
+ @media only screen and (max-width: 415px) {
+     .logo{
+         width: 35px;
+         height: 50px;
+         padding-left: 3px;
+         padding-bottom: 3px;
+         margin-top: 5px;
+         margin-left:240px;
+         right:10px;
+    }
+     .headerNames{
+         display:none;
+    }
+     #headerId{
+         padding-top:5px;
+    }
+     #headerId .toggle-btn span{
+         display:block;
+         width: 35px;
+         height: 5px;
+         background-color: white;
+         cursor: pointer;
+         margin: 6px 0;
+    }
+     #sidePane{
+         left:-200px;
+         padding-right:10px;
+         padding-left: 0px;
+         height:100%;
+    }
+     footer{
+         font-size:4vw;
+         align-items:center;
+         background-color:#9d707038;
+         margin-bottom:20px;
+         margin-top:20px;
+    }
+     #sidePaneActive{
+         left:0px;
+         padding-right:10px;
+         padding-left: 0px;
+         height:100%;
+         font-size:5vw;
+    }
+     .aboutMe {
+         float:left;
+         font-size:6vw;
+    }
+     .container-fluid{
+         padding-left: 1px;
+         !important 
+    }
+     .girlPic{
+         width: 120vw;
+         margin-top: 20px;
+         margin-bottom: 20px;
+    }
+     .copyRight{
+         margin-left:100px;
+    }
+     .carousel-caption h3 {
+         font-family: Garamond;
+         font-size: 5vw;
+         color: #1a4163 !important;
+         line-height:1.2;
+    }
+}
+@media only screen and (max-width:320px){
+	.logo{
+         width: 35px;
+         height: 50px;
+         padding-left: 3px;
+         padding-bottom: 3px;
+         margin-top: 5px;
+         margin-left:200px;
+         right:10px;
+    }
+	
+}
+ body{
+     font-family: 'Pacifico', cursive;
+	 overflow-x: hidden;
+}
+ ul{
+     list-style-type:none;
+}
+ .featuredWork td:hover {
+     border: 1px solid purple;
+}
+ .featuredWork td{
+     padding:30px;
+     padding-bottom:20px;
+}
+footer{
+	opacity: 1; 
+	top: 0px;
+}
+ 
